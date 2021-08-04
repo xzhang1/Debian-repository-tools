@@ -1,0 +1,2 @@
+deb [trusted=yes] http://mirrors.163.com/debian/ bullseye main
+deb-src [trusted=yes] http://mirrors.163.com/debian/ bullseye main

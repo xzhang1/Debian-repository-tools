@@ -1,0 +1,16 @@
+Origin: WindRiver
+Label: Official_Archive
+# Codename is the second level archive name.
+# Like Bebian's buster, bullseye and so on...
+Codename: bullseye
+# Architectures defined what kind of packages are stored here
+# amd64  => Intel_x86_64 binary package
+# source => Source package
+Architectures: amd64 source
+# Components is the third level archive name.
+# Linux Debian's main, contrib, non-free and so on...
+Components: main contrib
+# Short description of this archive
+Description: official style repository for testing
+# The ID og the gpg key used to sign this reprository.
+# SignWith: 85C1D8BABCDF17DC93892D6F8654D33B67CCF204
