@@ -1,2 +1,5 @@
-deb [trusted=yes] http://mirrors.163.com/debian/ bullseye main
-deb-src [trusted=yes] http://mirrors.163.com/debian/ bullseye main
+deb [trusted=yes] http://mirrors.163.com/debian/ bullseye main contrib
+deb-src [trusted=yes] http://mirrors.163.com/debian/ bullseye main contrib
+deb [trusted=yes] http://mirrors.163.com/debian/ buster main contrib
+deb-src [trusted=yes] http://mirrors.163.com/debian/ buster main contrib
+
